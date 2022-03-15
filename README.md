@@ -1,6 +1,7 @@
-- 👋 Oi, eu sou a @MarquesEmiLly
-- 👀 Meus interesses são programação, backend e analise de sistema 
-- 🌱 Atualmente estou aprendendo a progrmar melhor
+- 👋 Olá, eu sou a @MarquesEmiLly e atualmente tenho 16 anos! 
+- 👀 Meus interesses na área de TI são como dev backEnd, QA e analise de sistemas.
+- No momento estou estagiando na PUC como desenvolvedora onde estou em aprendizado constante.
+- 🌱 Hoje trabalho com node js e estudo Python.
 - 📫 emillymarques96622@gmail.com
 
 <!---
