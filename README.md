@@ -3,7 +3,8 @@
 - 👀 Meus interesses na área de TI são como dev backEnd, QA e analise de sistemas.
 - No momento estou estagiando na Aceleradora Àgil (projeto da Toughtworks com a PUC) como desenvolvedora onde estou em aprendizado constante.
 - 🌱 Hoje trabalho com node js e estudo Python.
-- 📫 <a href="emillymarques96622@gmail.com">envie um email</a>
+- 📫 emillymarques96622@gmail.com
+- 📫 linkedin.com/in/emilly-marques-933861231
 - EXTRAS:
 Tenho conhecimento em React, Python, HTML, CSS, node js, VSCode, Netlify.
 Gosto de trabalho em equipe e me comunico muito bem.
