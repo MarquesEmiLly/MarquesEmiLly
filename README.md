@@ -7,7 +7,7 @@
 - EXTRAS:
 Tenho conhecimento em React, Python, HTML, CSS, node js, VSCode, Netlify.
 Gosto de trabalho em equipe e me comunico muito bem.
-Aprendo rápido e amo de paixão o mundo da programção
+Aprendo rápido e amo de paixão o mundo da programação
 
 <div style="display: inline_block"><br>
   <img align="center" alt="ErickC-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
