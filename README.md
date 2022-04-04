@@ -4,6 +4,7 @@
 - No momento estou estagiando na Aceleradora Àgil (projeto da Toughtworks com a PUC) como desenvolvedora onde estou em aprendizado constante.
 - 🌱 Hoje trabalho com node js e estudo Python.
 - 📫 emillymarques96622@gmail.com
+-📫<a href="https://www.linkedin.com/in/emilly-marques-933861231?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bwc8tjqSyQUeXmQPt8ljCmA%3D%3D">Meu linkedin</a>
 - EXTRAS:
 Tenho conhecimento em React, Python, HTML, CSS, node js, VSCode, Netlify.
 Gosto de trabalho em equipe e me comunico muito bem.
