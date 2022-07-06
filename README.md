@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou @MarquesEmiLly {ELA/DELA}
 - Tenho 16 anos
-- 👀 Meus interesses na área de TI são como dev backEnd, QA e analise de sistemas.
+- 👀 Meus interesses na área de TI são como dev Fullstack, QA e analise de sistemas.
 - No momento estou estagiando na Aceleradora Àgil (projeto da Toughtworks com a PUC) como desenvolvedora onde estou em aprendizado constante.
 - 🌱 Hoje trabalho com node js e estudo Python.
 - 📫 <a href= "emillymarques96622@gmail.com">Meu email</a>
