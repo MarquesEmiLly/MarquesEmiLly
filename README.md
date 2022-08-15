@@ -10,7 +10,7 @@ Tenho conhecimento em
 - React.js
 - HTML
 - CSS
--Javascript
+- Javascript
 - Responsividade
 - Typescript 
 - VSCode
