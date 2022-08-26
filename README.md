@@ -17,6 +17,7 @@ Tenho conhecimento em
 - Replit
 - Heroku  
 - Netlify
+- Storybook
 - pgAdmim
 - Postman
 - Metodologia Àgil
