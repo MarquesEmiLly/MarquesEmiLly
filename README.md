@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou @MarquesEmiLly {ELA/DELA}
-- Tenho 16 anos
+- Tenho 17 anos
 - No momento estou estagiando na Aceleradora Àgil (projeto da Toughtworks com a PUC) como desenvolvedora  Fullstack, onde estou em aprendizado constante.
 - 🌱 Hoje trabalho com Typescript e React.js
 - 📫 <a href= "emillymarques96622@gmail.com">Meu email</a>
