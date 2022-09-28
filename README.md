@@ -2,7 +2,7 @@
 - Tenho 17 anos
 - No momento estou estagiando na Aceleradora Àgil (projeto da Toughtworks com a PUC) como desenvolvedora  Fullstack, onde estou em aprendizado constante.
 - 🌱 Hoje trabalho com Typescript e React.js
-- 📫 <a href= "emillymarques96622@gmail.com">Meu email</a>
+- 📫 emillymarques96622@gmail.om
 - 📫<a href="https://www.linkedin.com/in/emilly-marques-933861231?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bwc8tjqSyQUeXmQPt8ljCmA%3D%3D">Meu linkedin</a>
 
  EXTRAS:
