@@ -4,23 +4,7 @@
 - 🌱 Hoje trabalho com Typescript e React.js
 - 📫 emillymarques96622@gmail.om
 - 📫<a href="https://www.linkedin.com/in/emilly-marques-933861231?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bwc8tjqSyQUeXmQPt8ljCmA%3D%3D">Meu linkedin</a>
-
- EXTRAS:
-Tenho conhecimento em 
-- React.js
-- HTML
-- CSS
-- Javascript
-- Responsividade
-- Typescript 
-- VSCode
-- Replit
-- Heroku  
-- Netlify
-- Storybook
-- pgAdmim
-- Postman
-- Metodologia Àgil
+- meu cv: [DesenvolvedoraWeb.cv (2).pdf](https://github.com/MarquesEmiLly/MarquesEmiLly/files/9716542/DesenvolvedoraWeb.cv.2.pdf)
 
 
 <div style="display: inline_block"><br>
