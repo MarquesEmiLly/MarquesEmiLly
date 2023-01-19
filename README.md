@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js Node.js C# SQL SERVER**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> <a href="https://www.linkedin.com/in/emilly-marques2/"></a>
 <p align="left">
 </p>
 
