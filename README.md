@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Emilly</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Aceleadora Àgil](https://www.linkedin.com/school/aceleradora-%C3%A1gil/mycompany/)
+- 🔭 I’m currently working on project "Study And Go"
 
-- 🌱 I’m currently learning **React.js Node.js**
+- 🌱 I’m currently learning **React.js Node.js C# SQL SERVER**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
