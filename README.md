@@ -3,8 +3,8 @@
 
 - 🔭 I’m currently working on project "Study And Go"
 - 🔭 I loved working FRONT-END
-- 🌱 I’m currently learning **C# **
-- 🌱I have expericence whith ** React.js, Typescript and SQL **
+- 🌱 I’m currently learning **C#**
+- 🌱I have expericence whith **React.js, Typescript and SQL**
 
 <h3 align="left">Connect with me:</h3> <a href="https://www.linkedin.com/in/emilly-marques2/"></a>
 <p align="left">
