@@ -2,7 +2,6 @@
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
 - 🔭 I’m currently working on project "Study And Go"
-- 🔭 I loved working FRONT-END
 - 🌱 I’m currently learning **C#**
 - 🌱I have expericence whith **React.js, Typescript and SQL**
 
