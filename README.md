@@ -2,8 +2,9 @@
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
 - 🔭 I’m currently working on project "Study And Go"
-
-- 🌱 I’m currently learning **React.js Node.js C# SQL SERVER**
+- 🔭 I loved working FRONT-END
+- 🌱 I’m currently learning **C# **
+- 🌱I have expericence whith ** React.js, Typescript and SQL **
 
 <h3 align="left">Connect with me:</h3> <a href="https://www.linkedin.com/in/emilly-marques2/"></a>
 <p align="left">
