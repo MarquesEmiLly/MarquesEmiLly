@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **C#**
 - 🌱I have expericence whith **React.js, Typescript and SQL**
 
-<h3 align="left">Connect with me:</h3> <a href="https://www.linkedin.com/in/emilly-marques2/"></a>
+<h3 align="left">Connect with me: emillymarques96622@gmail.com</h3> <a href="https://www.linkedin.com/in/emilly-marques2/"></a>
 <p align="left">
 </p>
 
