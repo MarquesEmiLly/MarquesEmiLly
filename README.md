@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on project "Study And Go" in WKJohub
 - 🌱 I’m currently learning **ASP NET**
-- 🌱I have expericence whith **React.js, Node.js Typescript, CS# ASP NET and Microsoft SQL**
+- 🌱I have expericence whith **React.js, Node.js Typescript, C# ASP NET and Microsoft SQL**
 
 <h3 align="left">Connect with me: emillymarques96622@gmail.com</h3> <a href="https://www.linkedin.com/in/emilly-marques2/"></a>
 <p align="left">
