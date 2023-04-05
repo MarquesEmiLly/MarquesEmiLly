@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Emilly</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🔭 I’m currently working on project "Study And Go"
-- 🌱 I’m currently learning **C#**
-- 🌱I have expericence whith **React.js, Typescript and SQL**
+- 🔭 I’m currently working on project "Study And Go" in WKJohub
+- 🌱 I’m currently learning **ASP NET**
+- 🌱I have expericence whith **React.js, Node.js Typescript, CS# ASP NET and Microsoft SQL**
 
 <h3 align="left">Connect with me: emillymarques96622@gmail.com</h3> <a href="https://www.linkedin.com/in/emilly-marques2/"></a>
 <p align="left">
