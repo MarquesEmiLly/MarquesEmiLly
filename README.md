@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Emilly</h1>
-<h3 align="center">A passionate fullstack developer from Brazil</h3>
+<h1 align="center">Olá, eu sou a Emilly</h1>
+<h2 align="center">Estudante do curso de Análise e desenvolvimento de sistemas na PUC-RS</h2>
 
-- 🔭 I’m currently working on project "Study And Go" in WKJohub
-- 🌱 I’m currently learning **ASP NET**
-- 🌱I have expericence whith **React.js, Node.js Typescript, C# ASP NET and Microsoft SQL**
+- 🔭 Estou estudando CSharp React.js
+- 🌱Gosto de desenvolvimento web e administração do banco de dados
+- Estou em busca de uma oportunidade de trabalho na área de TI
 
 <h3 align="left">Connect with me: emillymarques96622@gmail.com</h3> <a href="https://www.linkedin.com/in/emilly-marques2/"></a>
 <p align="left">
