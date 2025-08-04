@@ -1,9 +1,5 @@
 <h1 align="center">Olá, eu sou a Emilly</h1>
-<h2 align="center">Estudante do curso de Análise e desenvolvimento de sistemas na PUC-RS</h2>
 
-- 🔭 Estou estudando CSharp React.js
-- 🌱Gosto de desenvolvimento web e administração do banco de dados
-- Estou em busca de uma oportunidade de trabalho na área de TI
 
 <h3 align="left">Connect with me: emillymarques96622@gmail.com</h3> <a href="https://www.linkedin.com/in/emilly-marques2/"></a>
 <p align="left">
