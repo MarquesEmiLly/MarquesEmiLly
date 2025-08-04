@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou a Emilly</h1>
 
 
-<h3 align="left">Connect with me: emillymarques96622@gmail.com</h3> <a href="https://www.linkedin.com/in/emilly-marques2/"></a>
+<h3 align="left">https://www.linkedin.com/in/19emillymarques/</h3> <a href="https://www.linkedin.com/in/emilly-marques2/"></a>
 <p align="left">
 </p>
 
